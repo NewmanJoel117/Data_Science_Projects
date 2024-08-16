@@ -1,0 +1,5 @@
+Mango: yellow
+Orange: yellow
+Tomatoes: red
+Apple: Green
+grapes: Green, Black
